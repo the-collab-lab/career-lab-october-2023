@@ -13,9 +13,9 @@
 | Sat, Oct 7 @ 1:00PM PT/4:00PM ET            | Sync  | [Career Lab Kick-Off Orientation](./session-docs/orientation.md)                                         |
 | Sun, Oct 8 - Wed, Oct 11                    | Async | [What to include on your Linkedin profile](./session-docs/what-to-include-on-linkedin.md)                |
 | Sun, Oct 8 - Wed, Oct 11                    | Async | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
-| Mon, Oct 9                                  | Sync  | [Q&A with a recruiter](./session-docs/q-and-a-with-recruiter.md)                                         |
+| Mon, Oct 9 @ 9:00AM PT/12:00PM ET           | Sync  | [Q&A with a recruiter](./session-docs/q-and-a-with-recruiter.md)                                         |
 | Wed, Oct 11 @ 5:30PM PT/8:30PM ET           | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
-| Wed, Oct 11 - Sat, Oct 15                   | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
+| Wed, Oct 11 - Sat, Oct 14                   | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
 
 
 
