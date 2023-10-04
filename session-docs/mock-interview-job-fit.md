@@ -33,3 +33,17 @@ Job-Fit Interview Pairings:
 
 | Collabie | Job Fit Interviewer |
 | ---- | ---- |
+Ismarji Workman | Zenzi Ali
+Satoshi S | Klesta Luli
+Lydia Dunning | Caitlin Floyd
+Corina Murg | Yufa
+Shangguan Wang | Matthew Hughes
+Christina Woodhams | Shreyas Bhandare
+Jenny Chou | Zenzi Ali
+Magdalena Slifierz | 	Klesta Luli
+Shannone | 	Caitlin Floyd
+Isaiah Sanchez | Matthew Hughes
+Aslan Taheri | Yufa
+Archaa S | Zenzi Ali
+Hans J Schroeder | Yufa
+Elizabeth Hammes | Matthew Hughes
