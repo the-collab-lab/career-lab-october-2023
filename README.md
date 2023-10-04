@@ -1,4 +1,4 @@
-# Career Lab
+# Career Lab <img align="right" width="100" height="100" alt="career lab rocket" src="https://github.com/the-collab-lab/career-lab-q1-2023/blob/main/session-docs/career-lab-rocket-100x100.png">
 
 👋 Welcome! Career Lab is The Collab Lab’s optional, 2-week program that helps you:
 
@@ -10,25 +10,27 @@
 ### Week One - LinkedIn
 | Date/ Date Range                            | Type  | Session |
 | ------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------- |
-| Sun, [DATE]                                 | Sync  | [Career Lab Orientation](./session-docs/orientation.md)                                                  |
-| Sun, [DATE] - Fri, [DATE]                   | Async | [What to include on your Linkedin profile](./session-docs/what-to-include-on-linkedin.md)                |
-| Tues, [DATE]                                | Async | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
-| Wed, [DATE] - Sat, [DATE]                   | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
-| Fri, [DATE]                    | Sync  | [Q&A with a recruiter](./session-docs/q-and-a-with-recruiter.md)                                         |
+| Sat, Oct 7 @ 1:00PM PT/4:00PM ET            | Sync  | [Career Lab Kick-Off Orientation](./session-docs/orientation.md)                                         |
+| Sun, Oct 8 - Wed, Oct 11                    | Async | [What to include on your Linkedin profile](./session-docs/what-to-include-on-linkedin.md)                |
+| Sun, Oct 8 - Wed, Oct 11                    | Async | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
+| Mon, Oct 9                                  | Sync  | [Q&A with a recruiter](./session-docs/q-and-a-with-recruiter.md)                                         |
+| Wed, Oct 11 @ 5:30PM PT/8:30PM ET           | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
+| Wed, Oct 11 - Sat, Oct 15                   | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
+
+
 
 ### Week Two - Interviews
 | Date/ Date Range                            | Type  | Session |
 | ------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------- |
-| Thurs, [DATE]                               | Async  | [What to ask your interviewers](./session-docs/what-to-ask-your-interviewers.md)                                       |
-| Thurs, [DATE]                               | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
-| Sun, [DATE] - your technical mock interview | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                         |
-| Sat, [DATE] - your mock interviews          | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)
-| Sun, [DATE]                                 | Async | [What to ask your interviewers](./session-docs/what-to-ask-your-interviewers.md)|
-| Sun, [DATE]                                 | Async | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    | s   |
-| Mon, [DATE] - Sat, [DATE]                   | Sync  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
-| Mon, [DATE] - Sat, [DATE]                   | Sync  | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                       |
-| Thurs, [DATE]                               | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
-| Sun, [DATE]                                 | Sync  | [Graduation](./session-docs/graduation.md)                                                               |
+| Sat, Oct 14 - Tue, Oct 17                   | Async | [What to ask your interviewers](./session-docs/what-to-ask-your-interviewers.md)                         |
+| Sat, Oct 14 - Tue, Oct 17                   | Async | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
+| Sat, Oct 14 - Tue, Oct 17                   | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                         |
+| Mon, Oct 16 @ 1:00PM PT/4:00PM ET           | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)                                     |
+| Mon, Oct 16 - Tue, Oct 17                   | Async | [What to ask your interviewers](./session-docs/what-to-ask-your-interviewers.md)                         |
+| Mon, Oct 16 - Tue, Oct 17                   | Async | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
+| Tue, Oct 17 - Sat, Oct 21                   | Sync* | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
+| Tue, Oct 17 - Sat, Oct 21                   | Sync* | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                       |
+| Sun, Oct 22 @ 9:00AM PT/12:00PM ET          | Sync  | [That's a Wrap!](./session-docs/graduation.md)                                                           |
 
 ## Additional Resources
 
