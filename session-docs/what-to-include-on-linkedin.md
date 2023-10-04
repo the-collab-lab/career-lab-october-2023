@@ -1,6 +1,6 @@
 # Async: What to include on your LinkedIn profile
 
-> **Homework:** Please spend at least **1 hour on Monday or Tuesday** watching the videos below and working on your LinkedIn profile in preparation for a Q&A session.
+> **Homework:** Please spend at least **1 hour by Monday or Tuesday** watching the videos below and working on your LinkedIn profile in preparation for a Q&A session.
 
 It is a well-known fact: **LinkedIn is the home of recruiters.** This is where they live and breathe. This is where they search for potential candidates. As a job searcher, you want to **make sure your LinkedIn profile attracts the recruiter’s attention.** The aim of this lesson is to help you maximize your chances of being seen on LinkedIn by creating a strong LinkedIn profile.
 
