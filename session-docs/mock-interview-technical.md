@@ -13,8 +13,20 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 
 - Collabies will reach out to their assigned mentor to schedule the interview.
 - Collabies will send the interviewer their completed take-home assignment.
-- Interviewers will use [this rubric](https://docs.google.com/spreadsheets/d/17m_A_cinlrju0H1KfNcodWgv1Dh8gsW-v5emcHSEjjA/edit) to review the Collabie's take-home assignment and get prepared to discuss their work in the interview.
-- Review the [Technical interview questions](../resources/technical-interview-questions.md)
+- Interviewers will consider these questions when reviewing the Collabie's take-home assignment and get prepared to discuss their work in the interview.
+### Accessibility
+* What are some of the tools you can use to test the accessibility of a web page or web application?
+* How is the alt attribute on an img element used?
+* When should you use a link versus a button?
+* What are the advantages for accessibility of using em or rem as a CSS unit versus px?
+* What are ARIA attributes and how are they useful?
+* Why is color alone insufficient to to convey information in a UI?
+
+### React
+* What are state and props in React? How are they best used?
+* What are “stateless” components in React? How are they useful?
+* What is JSX? Why do we use it with React?
+* What are React hooks used for?
 
 ## Interview agenda
 
@@ -27,8 +39,19 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 
 Technical Interview Pairings:
 
-[comment]: <> (Populate using the values in this CodeSandbox: https://codesandbox.io/s/career-lab-pairings-u1qmj?file=/src/App.js)
-[comment]: <> (TODO: move this script into this project somehow)
-
 | Collabie | Technical Interviewer |
 | ---- | ---- |
+Ismarji Workman | Luis Augusto
+Satoshi S | Devin Jaggernauth
+Lydia Dunning | Louie Knolle
+Corina Murg | Shreyas Bhandare
+Shangguan Wang | Nathan Brown
+Christina Woodhams | Luis Augusto
+Jenny Chou | Devin Jaggernauth
+Magdalena Slifierz | Louie Knolle
+Shannone | Shreyas Bhandare
+Isaiah Sanchez | Nathan Brown
+Aslan Taheri | Luis Augusto
+Archaa S | Devin Jaggernauth
+Hans J Schroeder | Louie Knolle
+Elizabeth Hammes | Nathan Brown
