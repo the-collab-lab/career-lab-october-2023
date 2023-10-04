@@ -16,3 +16,18 @@ Linkedin Review Pairings:
 
 | Collabie | Linkedin Reviewer |
 | ---- | ---- |
+Ismarji Workman |	Klesta Luli
+Satoshi S | Caitlin Floyd
+Lydia Dunning | Andrew Hedges
+Corina Murg | Jeremiah Fallin
+Shangguan Wang | Alex D
+Christina Woodhams | Yolanda Haynes
+Jenny Chou | Shraddha
+Magdalena Slifierz | Andrew Hedges
+Shannone | Jeremiah Fallin
+Isaiah Sanchez | Alex D
+Aslan Taheri | Yolanda Haynes
+Archaa S | Shraddha
+Hans J Schroeder | Jeremiah Fallin
+Elizabeth Hammes | 	Yolanda Haynes
+Patty | Andrew Hedges
