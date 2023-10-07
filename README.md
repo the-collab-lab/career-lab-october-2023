@@ -32,6 +32,8 @@
 | Tue, Oct 17 - Sat, Oct 21                   | Sync* | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                       |
 | Sun, Oct 22 @ 9:00AM PT/12:00PM ET          | Sync  | [That's a Wrap!](./session-docs/graduation.md)                                                           |
 
+It is the Collabie's responsibility to reach out to their partner and schedule the ```Sync*``` sessions.
+
 ## Additional Resources
 
 As you work your way through this program or once you have completed it, we encourage you to look into the [job search resources](https://github.com/the-collab-lab/job-search-resources) we've collected for you! You can think of this as a supplement to Career Lab - there's resources on topics we don't have time to cover in this program (like resume writing tips and resources for practicing coding challenges).
